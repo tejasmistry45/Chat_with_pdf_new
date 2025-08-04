@@ -1,0 +1,11 @@
+fastapi
+fastapi[standard]
+uvicorn
+streamlit
+groq
+faiss-cpu
+PyPDF2
+sentence-transformers
+pydantic
+python-multipart
+numpy
